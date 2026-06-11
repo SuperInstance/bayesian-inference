@@ -1,6 +1,9 @@
 [package]
 name = "bayesian_inference"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Bayesian_inference"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/bayesian_inference"
+edition = "2021"
 
 [dependencies]
