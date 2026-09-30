@@ -1,9 +1,11 @@
 [package]
 name = "bayesian_inference"
 version = "0.1.0"
-description = "A Rust library for Bayesian_inference"
+description = "Bayesian Inference — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/bayesian_inference"
+repository = "https://github.com/SuperInstance/bayesian-inference"
 edition = "2021"
+
+keywords = ["bayesian-inference"]
 
 [dependencies]
